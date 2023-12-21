@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Noesis.MonoGame.CodeGenerat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Noesis.MonoGame.WindowsDX", "Noesis.MonoGame\Noesis.MonoGame.WindowsDX.csproj", "{0A947ED1-EEFD-4799-B916-83F3819326F5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Noesis.MonoGame.TestApp.WindowsDX", "Noesis.MonoGame.TestApp\Noesis.MonoGame.TestApp.WindowsDX.csproj", "{3E34AEFC-9DCA-4435-B317-694661206DCC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,14 +31,6 @@ Global
 		{0A947ED1-EEFD-4799-B916-83F3819326F5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0A947ED1-EEFD-4799-B916-83F3819326F5}.Release|x64.ActiveCfg = Release|Any CPU
 		{0A947ED1-EEFD-4799-B916-83F3819326F5}.Release|x64.Build.0 = Release|Any CPU
-		{3E34AEFC-9DCA-4435-B317-694661206DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3E34AEFC-9DCA-4435-B317-694661206DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3E34AEFC-9DCA-4435-B317-694661206DCC}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{3E34AEFC-9DCA-4435-B317-694661206DCC}.Debug|x64.Build.0 = Debug|Any CPU
-		{3E34AEFC-9DCA-4435-B317-694661206DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3E34AEFC-9DCA-4435-B317-694661206DCC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3E34AEFC-9DCA-4435-B317-694661206DCC}.Release|x64.ActiveCfg = Release|Any CPU
-		{3E34AEFC-9DCA-4435-B317-694661206DCC}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
