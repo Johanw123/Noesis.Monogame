@@ -91,7 +91,7 @@ public sealed class NoesisRenderDevice : RenderDevice
         {
             string shaderName = ((Shader.Enum)i).ToString();
 
-            effects[i] = contentManager.Load<Microsoft.Xna.Framework.Graphics.Effect>($"Content\\Noesis\\Effects\\{shaderName}");
+            effects[i] = contentManager.Load<Microsoft.Xna.Framework.Graphics.Effect>($"Noesis\\Effects\\{shaderName}");
         }
 
         return effects;
